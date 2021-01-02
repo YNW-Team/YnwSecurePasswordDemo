@@ -1,0 +1,6 @@
+# Prettier ignore
+
+node_modules
+coverage
+build
+.next

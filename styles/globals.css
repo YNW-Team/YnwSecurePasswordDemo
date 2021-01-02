@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+pre {
+	border-radius: 5px;
+	padding: 0.75rem;
+	font-size: 0.8rem;
+	white-space: pre;
+	margin: 16px 0;
+	overflow: auto;
+}
