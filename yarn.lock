@@ -4727,10 +4727,10 @@ yallist@^4.0.0:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
-ynw-secure-password@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/ynw-secure-password/-/ynw-secure-password-0.1.0.tgz#de5867056830b6a803a736c03d60b6352432ba41"
-  integrity sha512-RNFOnjF2hyU8R+/xZhAhtFBUlZe3xCMjBPUW5GVX02Z6TzH6gIPLEdCCuFlSOjjXWI9Y8/nHJDApp37FDU1kbQ==
+ynw-secure-password@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/ynw-secure-password/-/ynw-secure-password-0.1.1.tgz#1060ab8364fdd08e4403d916ca3830a2611c6131"
+  integrity sha512-Mj65xCg1k/9WgkvQ0yK5jqWfDCTg4f7J4rkOgSMAPDsKqhjGqEaQVAuKprRE12biM4O2tARr72i4t5UlGbti7A==
 
 yocto-queue@^0.1.0:
   version "0.1.0"
